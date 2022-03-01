@@ -1,6 +1,6 @@
 # Build-a-Data-Science-Web-App-with-Streamlit-and-Python
 
-  -- This project is simple Data Science Project Guided by the Coursera. In this project we tried to visualise the data of Accident happen in the newyork city.
+  -- In this project I tried to visualise the data of Accident happen in the newyork city.
   -- To get the data follow this link https://drive.google.com/file/d/1YiAngfV5L5LW8HYboiu7YMWS0_5Q2bke/view?usp=sharing 
 
 ### Requirement-
